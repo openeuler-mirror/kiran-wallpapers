@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+        <wallpaper deleted="false">
+		<name>Abstract</name>
+		<name xml:lang="zh_CN">抽象</name>
+		<filename>/usr/share/backgrounds/kiran/Abstract.png</filename>
+                <options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Cloud</name>
+		<name xml:lang="zh_CN">残云</name>
+                <filename>/usr/share/backgrounds/kiran/Cloud.jpg</filename>
+                <options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Edge</name>
+		<name xml:lang="zh_CN">边缘</name>
+                <filename>/usr/share/backgrounds/kiran/Edge.jpg</filename>
+                <options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Navy</name>
+		<name xml:lang="zh_CN">深蓝</name>
+                <filename>/usr/share/backgrounds/kiran/Navy.jpg</filename>
+                <options>zoom</options>
+	</wallpaper>
+        <wallpaper deleted="false">
+		<name>Eddy</name>
+		<name xml:lang="zh_CN">漩涡</name>
+                <filename>/usr/share/backgrounds/kiran/Eddy.jpg</filename>
+                <options>zoom</options>
+	</wallpaper>
+        <wallpaper deleted="false">
+	        <name>Ocean</name>
+		<name xml:lang="zh_CN">海洋</name>
+                <filename>/usr/share/backgrounds/kiran/Ocean.jpg</filename>
+                <options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Earth</name>
+		<name xml:lang="zh_CN">地球</name>
+                <filename>/usr/share/backgrounds/kiran/Earth.jpg</filename>
+                <options>zoom</options>
+	</wallpaper>
+        <wallpaper deleted="false">
+                <name>Desert</name>
+                <name xml:lang="zh_CN">沙漠</name>
+                <filename>/usr/share/backgrounds/kiran/Desert.jpg</filename>
+                <options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+                <name>Quicksand</name>
+                <name xml:lang="zh_CN">流沙</name>
+		<filename>/usr/share/backgrounds/kiran/Quicksand.jpg</filename>
+                <options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+                <name>Helix</name>
+                <name xml:lang="zh_CN">螺旋</name>
+                <filename>/usr/share/backgrounds/kiran/Helix.jpg</filename>
+                <options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+                <name>Gradient</name>
+                <name xml:lang="zh_CN">渐变</name>
+                <filename>/usr/share/backgrounds/kiran/Gradient.jpg</filename>
+                <options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+                <name>Arrangement</name>
+                <name xml:lang="zh_CN">层次</name>
+                <filename>/usr/share/backgrounds/kiran/Arrangement.jpg</filename>
+                <options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+                <name>Ripple</name>
+                <name xml:lang="zh_CN">波纹</name>
+                <filename>/usr/share/backgrounds/kiran/Ripple.png</filename>
+                <options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+                <name>Streamline</name>
+                <name xml:lang="zh_CN">流线</name>
+                <filename>/usr/share/backgrounds/kiran/Streamline.jpg</filename>
+                <options>zoom</options>
+        </wallpaper>
+       <wallpaper>
+	       <wallpaper deleted="false">
+               <name>Dream</name>
+               <name xml:lang="zh_CN">梦幻</name>
+               <filename>/usr/share/backgrounds/kiran/Dream.jpg</filename>
+               <options>zoom</options>
+       </wallpaper>
+       <wallpaper deleted="false">
+                <name>Star</name>
+                <name xml:lang="zh_CN">星空</name>
+                <filename>/usr/share/backgrounds/kiran/Star.jpg</filename>
+                <options>zoom</options>
+       </wallpaper>
+       <wallpaper deleted="false">
+                <name>Hive</name>
+                <name xml:lang="zh_CN">蜂巢</name>
+                <filename>/usr/share/backgrounds/kiran/Hive.jpg</filename>
+                <options>zoom</options>
+       </wallpaper>
+       <wallpaper deleted="false">
+                <name>Overlap</name>
+                <name xml:lang="zh_CN">重叠</name>
+                <filename>/usr/share/backgrounds/kiran/Overlap.jpg</filename>
+                <options>zoom</options>
+       </wallpaper>
+       <wallpaper deleted="false">
+                <name>Streamer</name>
+                <name xml:lang="zh_CN">流光</name>
+                <filename>/usr/share/backgrounds/kiran/Streamer.jpg</filename>
+                <options>zoom</options>
+       </wallpaper>
+	<wallpaper deleted="false">
+		<name>Earth</name>
+		<name xml:lang="zh_CN">默认</name>
+                <filename>/usr/share/backgrounds/kiran/default.jpg</filename>
+                <options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+                <name>Earth</name>
+                <name xml:lang="zh_CN">默认1</name>
+                <filename>/usr/share/backgrounds/kiran/default1.jpg</filename>
+                <options>zoom</options>
+        </wallpaper>
+</wallpapers>
+
